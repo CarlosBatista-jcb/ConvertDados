@@ -1,0 +1,21 @@
+/* CSS para controlar o tamanho das imagens */
+header img {
+    width: 1350px; /* Defina a largura desejada */
+    height: auto; /* Mantém a proporção original */
+}
+
+footer img {
+    width: 1350px; /* Defina a largura desejada */
+    height: auto; /* Mantém a proporção original */
+}
+
+
+h1 {
+
+    color:dodgerblue;
+}
+
+form {
+
+    color:dodgerblue;
+}

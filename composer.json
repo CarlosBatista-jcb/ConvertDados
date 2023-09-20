@@ -1,0 +1,20 @@
+{
+    "name": "casa/converte-dados",
+    "description": "Pagina captura de Dados",
+    "type": "library",
+    "license": "MIT License",
+    "autoload": {
+        "psr-4": {
+            "Casa\\ConverteDados\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Carlos Batista"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpoffice/phpspreadsheet": "dev-master"
+    }
+}
